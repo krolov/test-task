@@ -13,7 +13,7 @@ yarn install
 The next command starts both of projects
 
 ```
-yarn nx run-many --target=serve --projects=stocks-2,web
+yarn nx run-many --target=serve --projects=stocks-2,web,graph
 ```
 After start project will be available here http://localhost:4200/
 
