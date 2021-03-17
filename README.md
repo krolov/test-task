@@ -10,11 +10,15 @@ We use yarn package manager. If you have not, you need to install it.
 yarn install
 ```
 
-The next command starts both of projects
+To start project you need to type this commands in different terminals
+```
+yarn nx run graph:serve
+```
 
 ```
-yarn nx run-many --target=serve --projects=stocks-2,web,graph
+yarn nx run web:serve
 ```
+
 After start project will be available here http://localhost:4200/
 
 ## Task
