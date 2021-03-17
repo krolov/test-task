@@ -2,7 +2,7 @@
 
 ## Description
 The archive contains the basic version of our monorep
-There are several projects for now. You need to use projects `stocks-2` for the backend part and `web` for the frontend part. We use nx.dev to control this repository.
+There are several projects for now. You need to use projects `graph` for the backend part and `web` for the frontend part. We use nx.dev to control this repository.
 ## Setup
 We use yarn package manager. If you have not, you need to install it.
 
